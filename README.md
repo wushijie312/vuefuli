@@ -1,6 +1,6 @@
 # vuefuli
 ###效果
-![](./GIF.png)
+![](./GIF.gif)
 ## Project setup
 ```
 npm install
